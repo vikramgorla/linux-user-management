@@ -14,7 +14,7 @@ Requirements
 
 Attributes
 ----------
-#### nestle-dolcegusto::default
+#### linux-user-management::default
 <table>
   <tr>
     <th>Key</th>
@@ -23,7 +23,7 @@ Attributes
     <th>Default</th>
   </tr>
   <tr>
-    <td><tt>['support-databag']['bacon']</tt></td>
+    <td><tt>['support-databag']</tt></td>
     <td>text</td>
     <td>Databag Name where support users will be defined</td>
     <td><tt>support</tt></td>
